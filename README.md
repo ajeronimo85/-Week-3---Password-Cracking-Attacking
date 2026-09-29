@@ -72,7 +72,10 @@ Figure 3: Hash loaded into Johnny, ready to begin the dictionary attack.
 ![](6-Screenshotpassword.png)
 
 Figure 4: Johnny displaying the successfully cracked password good-luck for PDF1.
-![](6-Screenshotpassword.png)
+![](7-Screenshotenterpassword.png)
+
+Figure 5: Entering the recovered password into the Adobe PDF password prompt.
+![](7-Screenshotenterpassword.png)
 
 
 
