@@ -94,6 +94,16 @@ Figure6: NetworkWalks Hash Calculator landing page with PDF tab selected.
 
 Figure 7: Hash Calculator output showing crackable $pdf$ hash string.
 
+![](11-Screenshotpasswordcracker.png)
+
+Figure 8: Second attack in progress using the 3,556-word JTR dictionary.
+
+![](11-Screenshotpasswordcracker.png)
+
+
+
+
+
 
 
 
