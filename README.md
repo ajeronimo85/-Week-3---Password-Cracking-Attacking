@@ -77,6 +77,19 @@ Figure 4: Johnny displaying the successfully cracked password good-luck for PDF1
 Figure 5: Entering the recovered password into the Adobe PDF password prompt.
 ![](8-ScreenshotPDFfilewillopen..png)
 
+# 🔧 W3-PM2: Password Cracking with NetworkWalks Tools
+Platform: NetworkWalks Password Cracker Lab & Hash Calculator (networkwalks.com/password-cracker)
+
+Task 1: Cracking PDF1 via NetworkWalks Online Tools
+Hash Extraction: Uploaded My Locked PDF1.pdf to the NetworkWalks Hash Calculator to generate $pdf$ hash.
+Initial Attempt: Pasted hash into the Online Password Cracker with standard 100-word list → returned ACCESS DENIED.
+Wordlist Escalation: Switched to the comprehensive JTR_default_password.txt (3,556 words).
+Result: Cracked successfully → password1.
+
+![](8-ScreenshotPDFfilewillopen..png)
+
+
+
 
 
 
