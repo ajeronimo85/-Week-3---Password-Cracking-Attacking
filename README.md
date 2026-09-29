@@ -66,7 +66,11 @@ Validation: Opened PDF with recovered password good-luck to reveal the secret fl
 ![](10-Screenshotthehashvalue.png)
 
 Figure 2: Extracted hash saved locally as a .txt file for input into John the Ripper.
-![](10-Screenshotthehashvalue.png)
+![](1-screanshotbrowse.png)
+
+Figure 3: Hash loaded into Johnny, ready to begin the dictionary attack.
+![](1-screanshotbrowse.png)
+
 
 
 
