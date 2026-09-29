@@ -63,6 +63,7 @@ Johnny Configuration: Loaded JTR engine path and imported the hash into Johnny.
 Attack Execution: Launched dictionary attack - JTR cracked the hash in seconds.
 Validation: Opened PDF with recovered password good-luck to reveal the secret flag.
 
+![](4-screenshot-curl.png)
 
 
 
