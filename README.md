@@ -90,7 +90,11 @@ Result: Cracked successfully → password1.
 
 Figure6: NetworkWalks Hash Calculator landing page with PDF tab selected.
 
-![](9-Screenshothashcalculator.png)
+![](14-ScreenshotUploadthelocked.png)
+
+Figure 7: Hash Calculator output showing crackable $pdf$ hash string.
+
+
 
 
 
