@@ -75,7 +75,7 @@ Figure 4: Johnny displaying the successfully cracked password good-luck for PDF1
 ![](7-Screenshotenterpassword.png)
 
 Figure 5: Entering the recovered password into the Adobe PDF password prompt.
-![](7-Screenshotenterpassword.png)
+![](8-ScreenshotPDFfilewillopen..png)
 
 
 
