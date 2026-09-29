@@ -102,7 +102,7 @@ Figure 8: Second attack in progress using the 3,556-word JTR dictionary.
 
 Figure 9: Hash Calculator extracting $pdf$ hash for My Locked PDF3.
 
-![](12-Screenshotcracked.png)
+![](13-Screenshotcompleted.png)
 
 
 
