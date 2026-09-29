@@ -63,7 +63,13 @@ Johnny Configuration: Loaded JTR engine path and imported the hash into Johnny.
 Attack Execution: Launched dictionary attack - JTR cracked the hash in seconds.
 Validation: Opened PDF with recovered password good-luck to reveal the secret flag.
 
-![](4-screenshot-curl.png)
+![](10-Screenshotthehashvalue.png)
+
+Figure 2: Extracted hash saved locally as a .txt file for input into John the Ripper.
+![](10-Screenshotthehashvalue.png)
+
+
+
 
 
 
