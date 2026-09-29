@@ -86,7 +86,13 @@ Initial Attempt: Pasted hash into the Online Password Cracker with standard 100-
 Wordlist Escalation: Switched to the comprehensive JTR_default_password.txt (3,556 words).
 Result: Cracked successfully → password1.
 
-![](8-ScreenshotPDFfilewillopen..png)
+![](9-Screenshothashcalculator.png)
+
+Figure6: NetworkWalks Hash Calculator landing page with PDF tab selected.
+
+![](9-Screenshothashcalculator.png)
+
+
 
 
 
