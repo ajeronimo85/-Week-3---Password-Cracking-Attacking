@@ -69,7 +69,10 @@ Figure 2: Extracted hash saved locally as a .txt file for input into John the Ri
 ![](1-screanshotbrowse.png)
 
 Figure 3: Hash loaded into Johnny, ready to begin the dictionary attack.
-![](1-screanshotbrowse.png)
+![](6-Screenshotpassword.png)
+
+Figure 4: Johnny displaying the successfully cracked password good-luck for PDF1.
+![](6-Screenshotpassword.png)
 
 
 
